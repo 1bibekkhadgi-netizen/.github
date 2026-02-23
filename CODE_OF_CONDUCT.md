@@ -8,5 +8,5 @@ which includes all the infrastructure used in the development of Python itself
 (e.g. mailing lists, issue trackers, GitHub, etc.).
 
 In general, this means that everyone is expected to be **open**, **considerate**, and
-**respectful** of others no matter what their position is within the project.
+**respectful** of others  matter what their position is within the project.
 
